@@ -1,0 +1,7 @@
+host_key
+inventory
+;inventory=/etc
+host_key_verification
+
+
+
